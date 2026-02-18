@@ -45,7 +45,7 @@ It allows users to add and delete tasks with data stored in **Local Storage**.
 ---
 
 ## 📷 Preview
-[View](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/2%20Mobile%20Sales%20Dashboard/Project.pbix)
+[View](https://github.com/ShivamMahto2105/To-do-List/blob/main/Todo.png)
 
 Simple Todo UI with Add and Delete functionality.
 
